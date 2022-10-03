@@ -1,2 +1,2 @@
 # codegen
-OepnAPI codegen for spring boot
+OpeAPI codegen for spring boot
